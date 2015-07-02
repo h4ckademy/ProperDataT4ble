@@ -1,0 +1,33 @@
+{
+  "name": "ProperDataT4ble",
+  "version": "0.1.0",
+  "description": "A proper data table for React.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/h4ckademy/ProperDataT4ble.git"
+  },
+  "keywords": [
+    "table",
+    "datatable",
+    "javascript",
+    "reactjs",
+    "react",
+    "component"
+  ],
+  "author": "h4ckademy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/h4ckademy/ProperDataT4ble/issues"
+  },
+  "homepage": "https://github.com/h4ckademy/ProperDataT4ble",
+  "devDependencies": {
+    "babel": "^5.6.14",
+    "babel-core": "^5.6.15",
+    "babel-loader": "^5.2.2",
+    "node-libs-browser": "^0.5.2",
+    "webpack": "^1.10.0"
+  },
+  "dependencies": {
+    "react": "^0.13.3"
+  }
+}
